@@ -14,7 +14,7 @@ This project provides a computer vision based technique for detecting fire and i
 - SMTPLIB
 - HSV color Algorithm
 
-![](github-readme-content/image-1.jpg)  
+![](github-readme-content/image1.jpg)  
 
 
 
