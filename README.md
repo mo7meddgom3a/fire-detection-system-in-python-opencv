@@ -1,4 +1,4 @@
-# Fire Detection System in Python using HSV Color
+# Fire Detection using HSV Color in opencv
 
 
 ## Introduction
