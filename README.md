@@ -45,10 +45,6 @@ We want to convert the image to HSV because working with HSV values is much easi
     pip install opencv-python
   ```
 
-## Execution
 
-  ```
-    python fire-detector.py
-  ```
 
 
